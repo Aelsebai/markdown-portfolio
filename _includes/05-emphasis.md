@@ -1,8 +1,8 @@
 #skills
 
-**Below is my list of my favorite skills**
+Below is __my list__ of my **favorite skills**
 
-__list__
+##list
 - docker
 - ansible
-jenkins
+- jenkins
